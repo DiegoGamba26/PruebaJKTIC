@@ -1,0 +1,15 @@
+body {
+    background: #f8f9fa;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.btn-primary {
+    transition: 0.3s;
+}
+
+.btn-primary:hover {
+    background: #0056b3;
+}
